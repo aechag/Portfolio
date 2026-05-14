@@ -18,7 +18,7 @@ export default function Navbar() {
                 viewport={{ once: true }}
                 transition={{ type: "spring", stiffness: 250, damping: 70, mass: 1 }}
             >
-                <a href="https://prebuiltui.com?utm_source=pixels">
+                <a href="/">
                     <Image className="h-15 w-auto" src="/assets/smaTech_logo.svg" alt="logo" width={130} height={34} priority />
                 </a>
 
