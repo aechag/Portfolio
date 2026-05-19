@@ -1,3 +1,11 @@
+import { ReactNode } from "react";
+
+export interface IFeature {
+    icon: ReactNode;  // Changed from string to ReactNode
+    title: string;
+    description: string;
+}
+
 export interface SectionTitleProps {
     text1: string;
     text2: string;
@@ -17,11 +25,11 @@ export interface ITestimonial {
     quote: string;
 }
 
-export interface IFeature {
+/* export interface IFeature {
     icon: string;
     title: string;
     description: string;
-}
+} */
 
 export interface IFooter {
     title: string;

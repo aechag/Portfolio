@@ -1,7 +1,7 @@
 'use client'
 import SectionTitle from "@/components/SectionTitle";
-import Image from "next/image";
 import { ArrowUpRight } from "lucide-react";
+import Image from "next/image";
 import { motion } from "motion/react";
 import { featuresData } from "@/data/features";
 import { IFeature } from "@/types";

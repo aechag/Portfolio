@@ -12,9 +12,10 @@
     "lenis": "^1.3.11",
     "lucide-react": "^0.542.0",
     "motion": "^12.23.12",
-    "next": "^16.2.4",
-    "react": "19.2.1",
-    "react-dom": "19.2.1",
+    "next": "^16.2.6",
+    "nodemailer": "^8.0.7",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
     "react-fast-marquee": "^1.6.5"
   },
   "devDependencies": {
