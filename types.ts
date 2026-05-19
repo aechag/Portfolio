@@ -1,4 +1,4 @@
-import { ReactNode } from "react";
+import type { ReactNode } from "react";
 
 export interface IFeature {
     icon: ReactNode;  // Changed from string to ReactNode
