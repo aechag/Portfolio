@@ -13,9 +13,9 @@ export default function RootLayout({ children, }: Readonly<{
 }>) {
     return (
         <html lang="en">
-            <head>
+            {/* <head>
                 <link rel="preload" href="/assets/background-splash.svg" as="image" />
-            </head>
+            </head> */}
             <body>
                 <LenisScroll />
                 {children}
